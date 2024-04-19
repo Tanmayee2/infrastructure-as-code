@@ -1,2 +1,4 @@
 terraform
 *.hcl
+.terraform
+terraform-provider-azurerm_v3.99.0_x5
